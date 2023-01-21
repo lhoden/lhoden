@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=aws,java,selenium,spring,ruby,py,html,css,sass,bootstrap,angular,react,go,js,cs,ts,postgres,mysql,oracle,mongodb,splunk,nodejs,kubernetes,jenkins,docker,unity&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,heroku,azure,kubernetes,docker,html,css,sass,bootstrap,nodejs,angular,react,js,ts,gherkin,codepen,java,selenium,maven,spring,ruby,rails,py,go,c,cs,postgres,mysql,mongodb,splunk,jenkins,idea,atom,vscode&perline=10)](https://skillicons.dev)
 
 <!--
 **lhoden/lhoden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
